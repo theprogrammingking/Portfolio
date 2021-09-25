@@ -96,7 +96,7 @@
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pranav&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=true) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=theprogrammingKing&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=true) 
 
 
 
