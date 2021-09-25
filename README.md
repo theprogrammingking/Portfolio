@@ -99,31 +99,4 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yeazin&bg_color=nord&color=708090&line=24292e&point=24292e&area=true&hide_border=true) 
 
 
-<h2> My Projects 📁</h2>
-<a href="https://github.com/yeazin/Movement-Pass-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Movement-Pass-Clone" />
-</a>
-<a href="https://github.com/yeazin/Multi-Authors-advanced-Django-Blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Multi-Authors-advanced-Django-Blog" />
-</a>
- <a href="https://github.com/yeazin/Stackoverflow-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Stackoverflow-Clone" />
-</a>
- <a href="https://github.com/yeazin/Zooming-cls">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Zooming-cls" />
-</a>
-<!--
-**yeazin/yeazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
- 🔭 I’m currently working on ...##Python & Django
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<a href="https://github.com/yeazin/stargazers"><img src="https://img.shields.io/github/stars/yeazin" alt="Stars Badge"/></a>
--->
